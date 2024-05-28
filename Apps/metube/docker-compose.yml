@@ -29,7 +29,7 @@ x-casaos:
     en_us: Web Gui For Youtube-dl With Playlist Support. Allows You To Download Videos From Youtube And Dozens Of Other Sites (https://ytdl-org.github.io/youtube-dl/supportedsites.html).
   developer: ''
   author: WisdomSky
-  icon: https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/ytdlm.png
+  icon: https://raw.githubusercontent.com/itsluisroque/CasaOS-AppStore/main/Apps/VoceChat/metube.png
   thumbnail: https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/ytdlm.png
   title:
     en_us: Metube
